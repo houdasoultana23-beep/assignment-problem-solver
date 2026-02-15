@@ -1,10 +1,10 @@
-📌 Assignment Problem Solver (Hungarian Method)
+Assignment Problem Solver (Hungarian Method)
 
 A Python application that solves the Assignment Problem using the König Algorithm, also known as the Hungarian Method.
 
 The program computes the optimal assignment that minimizes the total cost and provides a graphical interface for matrix input.
 
-📖 Project Overview
+Project Overview
 
 The Assignment Problem is a classical optimization problem in operations research.
 
@@ -20,7 +20,7 @@ Computes the minimum total cost
 
 Displays the result in a graphical interface
 
-🛠 Technologies Used
+Technologies Used
 
 Python 3
 
@@ -28,7 +28,7 @@ NumPy
 
 CustomTkinter
 
-📂 Project Structure
+Project Structure
 assignment-problem-solver/
 │
 ├── affectation-konig.py
@@ -42,25 +42,25 @@ requirements.txt: Lists required Python dependencies.
 
 README.md: Project documentation.
 
-⚙ Installation
-1️⃣ Clone the repository
+Installation
+1. Clone the repository
 git clone https://github.com/houdasoultana23-beep/assignment-problem-solver.git
 cd assignment-problem-solver
 
-2️⃣ Create a virtual environment (recommended)
+2. Create a virtual environment (recommended)
 python -m venv venv
 venv\Scripts\activate
 
-3️⃣ Install dependencies
+3. Install dependencies
 pip install -r requirements.txt
 
-▶️ Run the Application
+Run the Application
 python affectation-konig.py
 
 
 Make sure Python 3 is installed on your system.
 
-🎓 Academic Context
+Academic Context
 
 This project was developed as part of engineering studies in optimization and algorithm design.
 
